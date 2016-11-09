@@ -1,0 +1,31 @@
+{
+  "name": "colourbrightness2",
+  "version": "1.0.0",
+  "description": "Fork by colourBrightness.js with extras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippeAssis/colourBrightness2.js.git"
+  },
+  "author": "Philippe Assis <assis@philippeassis.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilippeAssis/colourBrightness2.js/issues"
+  },
+  "homepage": "https://github.com/PhilippeAssis/colourBrightness2.js#readme",
+  "keywords": [
+    "coulour",
+    "brightness",
+    "verific",
+    "color",
+    "light",
+    "dark"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "0.0.14"
+  }
+}
