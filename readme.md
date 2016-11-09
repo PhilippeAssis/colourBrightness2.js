@@ -7,7 +7,7 @@ Fork of [colourBrightness.js](https://github.com/jamiebrittain/colourBrightness.
 A lightweight and easy-to-use jQuery plugin that determines if the background colour of an element is light or dark.
 
 #### Demo
-<a href="https://philippeassis.github.io/colourbrightness2.js/" taget="_blank">Colour Brightness 2 :: Demo</a>
+<a href="https://philippeassis.github.io/colourbrightness2.js/" target="_blank">Colour Brightness 2 :: Demo</a>
 
 
 ### Install
