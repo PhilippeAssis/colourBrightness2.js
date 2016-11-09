@@ -1,6 +1,6 @@
 # colourBrightness2.js
 
-
+![colourBrightness2.js](https://raw.githubusercontent.com/PhilippeAssis/colourbrightness2.js/master/header.jpg)
 
 Fork of [colourBrightness.js](https://github.com/jamiebrittain/colourBrightness.js), the Colour Brightness 2 offers additional features to the plugin.
 
