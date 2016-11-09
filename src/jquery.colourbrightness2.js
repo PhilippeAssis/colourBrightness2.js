@@ -5,7 +5,7 @@
  *  Released under the WTFPL license
  *  http://sam.zoy.org/wtfpl/
  *
- *  Website: https://colourbrightness2.github.io
+ *  Website: https://philippeassis.github.io/colourbrightness2.js/
  *  Github:  https://github.com/PhilippeAssis/colourBrightness2.js.git
  *  Version: 1.0.0
  */
