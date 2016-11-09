@@ -26,6 +26,11 @@
   ],
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-minify": "0.0.14"
+    "gulp-clean": "^0.3.2",
+    "gulp-minify": "0.0.14",
+    "gulp-pug": "^3.1.0",
+    "gulp-stylus": "^2.6.0",
+    "pug": "^2.0.0-beta6",
+    "stylus": "^0.54.5"
   }
 }
